@@ -6,7 +6,7 @@
 
 ## Program instructions
 * gcc mcarlo.c -o mcarlo
-* ./mcarlo <number of points>
+* ./mcarlo <i> number of points </i>
 
 ## Program detail
 Takes in a certain amount of points on the command line. Creates an array of threads to execute function of how many times
