@@ -17,5 +17,4 @@ Choose desired scheduler:
 ## Program detail
 This project is a task scheduler implementation that simulates different scheduling algorithms.
 It takes two inputs from the command line: a scheduling algorithm (chosen by the user) and a text file containing task details. 
-The scheduler then processes the tasks based on the selected algorithm and 
-provides statistics such as average turnaround time, waiting time, and response time.
+The scheduler then processes the tasks based on the selected algorithm and provides statistics such as average turnaround time, waiting time, and response time.
